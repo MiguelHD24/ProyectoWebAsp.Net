@@ -1,0 +1,88 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="ProjectoWeb.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Dinamic-Web</title>
+    <%-- Referencias CSS --%>
+    <link href="asset/bootstrap-5.3.0/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="asset/Fontawesome/css/all.min.css" rel="stylesheet" />
+    <link href="asset/SweeAlert/sweetalert.min.css" rel="stylesheet" />
+    <link href="asset/CSS/Paginacion.css" rel="stylesheet" />
+
+    <%-- Referencias JavaScript --%>
+    <script src="asset/JQuery/jquery.min.js"></script>            
+    <script src="asset/bootstrap-5.3.0/js/bootstrap.bundle.min.js"></script>
+    <%--<script src="asset/bootstrap-5.3.0/js/bootstrap.min.js"></script>--%>
+    <script src="asset/SweeAlert/sweetalert.all.min.js"></script>
+    <script src="asset/SweeAlert/sweetAlertStyle.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css" rel="stylesheet" />
+    
+    
+
+</head>
+<body>
+    <form id="frmSiteMaster" runat="server">
+        <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+            <div class="container-fluid">
+                <asp:LinkButton Text="System-Web" runat="server" CssClass="navbar-brand" ID="lnkNombreSitio" OnClick="lnkNombreSitio_Click"/>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                        <li class="nav-item">
+                            <asp:LinkButton Text="Inicio" CssClass="nav-link active" aria-current="Inicio" runat="server" ID="lnkInicio" OnClick="lnkInicio_Click"/>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Formularios
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <asp:LinkButton Text="Ventas" runat="server" CssClass="dropdown-item" ID="lnkVentas" OnClick="lnkVentas_Click" />
+                                </li>
+
+                                <li>
+                                    <asp:LinkButton Text="Ingreso" runat="server" CssClass="dropdown-item" ID="lnkIngreso" OnClick="lnkIngreso_Click" />
+                                </li>
+
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+
+                                <li>
+                                    <asp:LinkButton Text="Cliente" runat="server" CssClass="dropdown-item" ID="lnkCliente" OnClick="lnkCliente_Click" />
+                                </li>
+                                 <li>
+                                    <asp:LinkButton Text="Administrar Usuarios" runat="server" CssClass="dropdown-item" ID="lnkAdministracionUsuarios" OnClick="lnkAdministracionUsuarios_Click" />
+                                </li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <asp:LinkButton Text="Salir" CssClass="nav-link" aria-current="Inicio" runat="server" ID="lnkSalir" OnClick="lnkSalir_Click"/>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+
+        <div>
+            <asp:ScriptManager runat="server" />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+                <%-- Aquí se renderizan los formularios --%>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,213 @@
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.dll.config
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.pdb
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.exe
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.rsp
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.exe
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.rsp
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.exe
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\BL.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\EL.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\BL.pdb
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\EL.pdb
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.AssemblyReference.cache
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.CopyComplete
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.exe
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.rsp
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.exe
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.rsp
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.exe
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\BL.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EL.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EntityFramework.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\DAL.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Utilidades.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\BL.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\BL.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EL.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EL.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EntityFramework.xml
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\DAL.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\DAL.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Utilidades.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.AssemblyReference.cache
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.CopyComplete
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Utilidades.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\ProjectoWeb.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.exe
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.exe.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csc.rsp
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.exe
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.exe.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\csi.rsp
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Console.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.exe
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\vbc.rsp
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\BL.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EL.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EntityFramework.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Utilidades.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\DAL.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\BL.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\BL.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EL.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EL.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Utilidades.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Utilidades.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EntityFramework.xml
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\DAL.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\bin\DAL.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.AssemblyReference.cache
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.csproj.CopyComplete
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\ProjectoWeb\obj\Debug\ProjectoWeb.pdb

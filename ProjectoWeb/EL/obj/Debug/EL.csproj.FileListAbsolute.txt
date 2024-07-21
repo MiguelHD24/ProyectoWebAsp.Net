@@ -1,0 +1,30 @@
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\EL\bin\Debug\EL.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\EL\bin\Debug\EL.pdb
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\EL\obj\Debug\EL.csproj.AssemblyReference.cache
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\EL\obj\Debug\EL.dll
+C:\Users\Miguel Mendez\source\repos\ProjectoWeb\EL\obj\Debug\EL.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EL.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EL.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EL.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EntityFramework.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EntityFramework.xml
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.csproj.AssemblyReference.cache
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.csproj.CopyComplete
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EL.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EL.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EL.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EntityFramework.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EntityFramework.xml
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.csproj.AssemblyReference.cache
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.csproj.CopyComplete
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\EL\obj\Debug\EL.pdb

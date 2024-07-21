@@ -1,0 +1,56 @@
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Test.exe.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Test.exe
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Test.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\BL.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\DAL.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EL.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\ProjectoWeb.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Utilidades.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EntityFramework.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\BL.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\BL.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\DAL.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\DAL.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EL.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EL.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\ProjectoWeb.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\ProjectoWeb.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Utilidades.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EntityFramework.xml
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.exe
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.pdb
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Utilidades.dll.config
+C:\Users\Miguel Mendez\Documents\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Test.exe.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Test.exe
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Test.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\BL.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EL.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EntityFramework.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\ProjectoWeb.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Utilidades.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\DAL.dll
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\BL.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\BL.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EL.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EL.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\ProjectoWeb.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\ProjectoWeb.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Utilidades.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\Utilidades.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EntityFramework.xml
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\DAL.pdb
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\bin\Debug\DAL.dll.config
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.exe
+C:\Users\m_ang\OneDrive\Documentos\GitHub\ProyectoWeb\ProyectoWeb\ProjectoWeb\Test\obj\Debug\Test.pdb

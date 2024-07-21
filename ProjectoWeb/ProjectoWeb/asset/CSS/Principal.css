@@ -1,0 +1,32 @@
+﻿.CardMenuPrincipal {
+    margin-top: 10px;
+}
+
+    .CardMenuPrincipal > a {
+        text-decoration: none;
+    }
+
+        .CardMenuPrincipal > a > div {
+            border-radius: 15px;
+            min-height: 130px;
+            color: white;
+            display: block;
+            height: 100%;
+        }
+
+    .CardMenuPrincipal:hover {
+        transform: scale(1.02);
+    }
+
+.card-body > div {
+    margin-top: 10px;
+}
+
+.icono {
+    font-size: 4rem;
+    margin-right: 10px;
+}
+
+.tituloCard {
+    width: 100% !important
+}
